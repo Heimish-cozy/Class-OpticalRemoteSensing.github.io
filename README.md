@@ -2,7 +2,7 @@
 * prof. Wonkook Kim's IORS class
 
 
-   - Practice with me -
+- Practice with me -
 
 
 ## Course Objectives

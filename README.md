@@ -1,4 +1,4 @@
-# Studying about Optical Remote Sensing (CN75474)
+# Studying about [Introduction to Optical Remote Sensing (CN75474)]
 
 Practice with me-
 

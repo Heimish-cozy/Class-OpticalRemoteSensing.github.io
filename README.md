@@ -1,8 +1,6 @@
 # Studying about [Introduction to Optical Remote Sensing (CN75474)]
-
-Practice with me-
-
 * prof. Wonkook Kim's IORS class
+Practice with me-
 
 ## Course Objectives
 * To understand basic principles in optical remote sensing 

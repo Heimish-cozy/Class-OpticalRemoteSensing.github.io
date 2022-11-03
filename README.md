@@ -1,4 +1,4 @@
-# Page of studying about Optical Remote Sensing (CN75474)
+# Studying about Optical Remote Sensing (CN75474)
 
 Practice with me-
 
